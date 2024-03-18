@@ -1,5 +1,4 @@
 author = "Amanda Lee"
-# baseURL = 'https://filipecarneiro.github.io/hugo-bootstrap-theme/'
 baseURL = 'https://alee279.github.io/hugo-mock-landing-page/'
 copyright = "Amanda Lee"
 title = "DreamTrip"
